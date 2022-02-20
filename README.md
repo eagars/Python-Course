@@ -1,4 +1,4 @@
-# pepe-oki
+# Python-Course
 
 First repository on GitHub for my college course
 
